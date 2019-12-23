@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/NRRD/src/itkNrrdImageIOFactory.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/NRRD/src/itkNrrdImageIO.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKIONRRD"
+		],
+		"name" : "ITKIONRRD"
+	}
+}

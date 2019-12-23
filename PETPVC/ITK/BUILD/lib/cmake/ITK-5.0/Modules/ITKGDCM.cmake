@@ -1,0 +1,13 @@
+set(ITKGDCM_LOADED 1)
+set(ITKGDCM_ENABLE_SHARED "0")
+set(ITKGDCM_DEPENDS "ITKExpat;ITKZLIB")
+set(ITKGDCM_PUBLIC_DEPENDS "ITKExpat;ITKZLIB")
+set(ITKGDCM_TRANSITIVE_DEPENDS "ITKExpat;ITKZLIB")
+set(ITKGDCM_PRIVATE_DEPENDS "")
+set(ITKGDCM_LIBRARIES "gdcmDICT;gdcmMSFF")
+set(ITKGDCM_INCLUDE_DIRS "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/GDCM;/public/liqingxing/PET/ITK/build/Modules/ThirdParty/GDCM/src/gdcm/Source/Common;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Source/MediaStorageAndFileFormat;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Source/DataDictionary;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Source/Common;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Source/InformationObjectDefinition;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Source/MessageExchangeDefinition;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Source/DataStructureAndEncodingDefinition")
+set(ITKGDCM_LIBRARY_DIRS "")
+set(ITKGDCM_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKGDCM_TARGETS_FILE "")
+set(ITKGDCM_FACTORY_NAMES "")
+

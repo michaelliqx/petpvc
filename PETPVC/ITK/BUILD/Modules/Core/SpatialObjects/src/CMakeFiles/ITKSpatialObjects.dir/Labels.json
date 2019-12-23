@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Core/SpatialObjects/src/itkMetaEvent.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Core/SpatialObjects/src/itkSpatialObjectFactoryBase.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Core/SpatialObjects/src/itkSpatialObjectProperty.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKSpatialObjects"
+		],
+		"name" : "ITKSpatialObjects"
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/adler32.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/compress.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/crc32.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/deflate.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/gzclose.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/gzlib.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/gzread.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/gzwrite.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/inflate.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/infback.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/inftrees.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/inffast.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/trees.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/uncompr.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/zutil.c"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKZLIB"
+		],
+		"name" : "itkzlib"
+	}
+}

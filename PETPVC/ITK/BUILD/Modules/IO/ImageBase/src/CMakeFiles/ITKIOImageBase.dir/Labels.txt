@@ -1,0 +1,13 @@
+# Target labels
+ ITKIOImageBase
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/ImageBase/src/itkImageSeriesWriter.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/ImageBase/src/itkImageFileReaderException.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/ImageBase/src/itkImageFileWriter.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/ImageBase/src/itkArchetypeSeriesFileNames.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/ImageBase/src/itkImageIOFactory.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/ImageBase/src/itkIOCommon.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/ImageBase/src/itkNumericSeriesFileNames.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/ImageBase/src/itkImageIOBase.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/ImageBase/src/itkRegularExpressionSeriesFileNames.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/ImageBase/src/itkStreamingImageIOBase.cxx

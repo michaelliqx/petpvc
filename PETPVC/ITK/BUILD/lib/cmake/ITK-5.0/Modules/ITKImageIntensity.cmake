@@ -1,0 +1,13 @@
+set(ITKImageIntensity_LOADED 1)
+set(ITKImageIntensity_ENABLE_SHARED "0")
+set(ITKImageIntensity_DEPENDS "ITKImageAdaptors;ITKImageGrid;ITKImageStatistics;ITKPath")
+set(ITKImageIntensity_PUBLIC_DEPENDS "")
+set(ITKImageIntensity_TRANSITIVE_DEPENDS "ITKImageAdaptors;ITKImageGrid;ITKImageStatistics;ITKPath")
+set(ITKImageIntensity_PRIVATE_DEPENDS "")
+set(ITKImageIntensity_LIBRARIES "ITKCommon;ITKStatistics;ITKTransform;ITKSpatialObjects;ITKPath")
+set(ITKImageIntensity_INCLUDE_DIRS "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Filtering/ImageIntensity/include")
+set(ITKImageIntensity_LIBRARY_DIRS "")
+set(ITKImageIntensity_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKImageIntensity_TARGETS_FILE "")
+set(ITKImageIntensity_FACTORY_NAMES "")
+

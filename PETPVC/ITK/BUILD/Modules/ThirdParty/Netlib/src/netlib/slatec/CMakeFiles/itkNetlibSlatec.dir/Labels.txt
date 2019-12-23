@@ -1,0 +1,23 @@
+# Target labels
+ ITKNetlib
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/d1mach.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/d9lgmc.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/d9gmit.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/d9lgic.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/d9lgit.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/dbetai.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/dcsevl.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/dgami.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/dgamit.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/dgamlm.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/dgamma.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/dgamr.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/dlbeta.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/dlgams.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/dlngam.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/dlnrel.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/initds.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/xermsg.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/d_int.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Netlib/src/netlib/slatec/d_mod.c

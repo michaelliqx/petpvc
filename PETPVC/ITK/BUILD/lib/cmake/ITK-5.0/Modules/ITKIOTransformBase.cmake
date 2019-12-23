@@ -1,0 +1,13 @@
+set(ITKIOTransformBase_LOADED 1)
+set(ITKIOTransformBase_ENABLE_SHARED "1")
+set(ITKIOTransformBase_DEPENDS "ITKCommon;ITKDisplacementField;ITKTransform;ITKTransformFactory")
+set(ITKIOTransformBase_PUBLIC_DEPENDS "ITKCommon;ITKTransform;ITKTransformFactory")
+set(ITKIOTransformBase_TRANSITIVE_DEPENDS "ITKCommon;ITKDisplacementField;ITKTransform;ITKTransformFactory")
+set(ITKIOTransformBase_PRIVATE_DEPENDS "")
+set(ITKIOTransformBase_LIBRARIES "ITKIOTransformBase")
+set(ITKIOTransformBase_INCLUDE_DIRS "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/TransformBase/include")
+set(ITKIOTransformBase_LIBRARY_DIRS "")
+set(ITKIOTransformBase_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKIOTransformBase_TARGETS_FILE "")
+set(ITKIOTransformBase_FACTORY_NAMES "")
+

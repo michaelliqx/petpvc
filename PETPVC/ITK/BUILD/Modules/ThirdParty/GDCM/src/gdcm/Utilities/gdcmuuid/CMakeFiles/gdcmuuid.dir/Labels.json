@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Utilities/gdcmuuid/compare.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Utilities/gdcmuuid/gen_uuid.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Utilities/gdcmuuid/pack.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Utilities/gdcmuuid/parse.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Utilities/gdcmuuid/unpack.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Utilities/gdcmuuid/unparse.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Utilities/gdcmuuid/uuid_time.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Utilities/gdcmuuid/uuid.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GDCM/src/gdcm/Utilities/gdcmuuid/uuidP.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKGDCM"
+		],
+		"name" : "gdcmuuid"
+	}
+}

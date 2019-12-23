@@ -1,0 +1,106 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkNonLinearOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkMultipleValuedCostFunction.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkSingleValuedCostFunction.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkConjugateGradientOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkRegularStepGradientDescentOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkLBFGSOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkExhaustiveOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkLevenbergMarquardtOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkSingleValuedNonLinearVnlOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkQuaternionRigidTransformGradientDescentOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkSPSAOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkSingleValuedVnlCostFunctionAdaptor.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkMultipleValuedNonLinearVnlOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkPowellOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkVersorRigid3DTransformOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkVersorTransformOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkOnePlusOneEvolutionaryOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkMultipleValuedNonLinearOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkLBFGSBOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkCumulativeGaussianOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkAmoebaOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkCumulativeGaussianCostFunction.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkFRPROptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkGradientDescentOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkSingleValuedNonLinearOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkRegularStepGradientDescentBaseOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkMultipleValuedVnlCostFunctionAdaptor.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkParticleSwarmOptimizerBase.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkParticleSwarmOptimizer.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Optimizers/src/itkInitializationBiasedParticleSwarmOptimizer.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKOptimizers"
+		],
+		"name" : "ITKOptimizers"
+	}
+}

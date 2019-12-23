@@ -1,0 +1,6 @@
+# Target labels
+ ITKVideoCore
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Video/Core/src/itkTemporalRegion.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Video/Core/src/itkTemporalDataObject.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Video/Core/src/itkTemporalProcessObject.cxx

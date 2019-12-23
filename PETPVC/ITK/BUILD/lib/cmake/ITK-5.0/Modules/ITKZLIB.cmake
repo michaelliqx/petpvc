@@ -1,0 +1,13 @@
+set(ITKZLIB_LOADED 1)
+set(ITKZLIB_ENABLE_SHARED "0")
+set(ITKZLIB_DEPENDS "")
+set(ITKZLIB_PUBLIC_DEPENDS "")
+set(ITKZLIB_TRANSITIVE_DEPENDS "")
+set(ITKZLIB_PRIVATE_DEPENDS "")
+set(ITKZLIB_LIBRARIES "itkzlib")
+set(ITKZLIB_INCLUDE_DIRS "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/ZLIB/src;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src")
+set(ITKZLIB_LIBRARY_DIRS "")
+set(ITKZLIB_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKZLIB_TARGETS_FILE "")
+set(ITKZLIB_FACTORY_NAMES "")
+

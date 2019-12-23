@@ -1,0 +1,39 @@
+# Target labels
+ ITKTIFF
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_aux.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_close.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_codec.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_compress.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_color.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_dir.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_dirinfo.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_dirread.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_dirwrite.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_dumpmode.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_error.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_extension.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_fax3.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_flush.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_getimage.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_luv.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_lzw.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_next.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_open.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_packbits.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_pixarlog.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_predict.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_print.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_read.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_strip.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_swab.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_tile.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_thunder.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_version.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_warning.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_write.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_zip.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_jpeg.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/TIFF/src/itktiff/tif_unix.c
+/public/liqingxing/PET/ITK/build/Modules/ThirdParty/TIFF/src/itktiff/tif_fax3sm.c
+/public/liqingxing/PET/ITK/build/Modules/ThirdParty/TIFF/src/itktiff/tif_fax3sm.c.rule

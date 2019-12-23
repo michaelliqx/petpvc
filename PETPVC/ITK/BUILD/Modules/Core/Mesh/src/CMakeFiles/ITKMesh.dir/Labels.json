@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Core/Mesh/src/itkMeshRegion.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Core/Mesh/src/itkSimplexMeshGeometry.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKMesh"
+		],
+		"name" : "ITKMesh"
+	}
+}

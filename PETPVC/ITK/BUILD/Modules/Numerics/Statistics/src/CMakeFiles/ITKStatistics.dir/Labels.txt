@@ -1,0 +1,14 @@
+# Target labels
+ ITKStatistics
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Statistics/src/itkProbabilityDistribution.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Statistics/src/itkDenseFrequencyContainer2.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Statistics/src/itkSparseFrequencyContainer2.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Statistics/src/itkChiSquareDistribution.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Statistics/src/itkGaussianDistribution.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Statistics/src/itkTDistribution.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Statistics/src/itkNormalVariateGenerator.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Statistics/src/itkDecisionRule.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Statistics/src/itkMaximumDecisionRule.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Statistics/src/itkMaximumRatioDecisionRule.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/Statistics/src/itkMinimumDecisionRule.cxx

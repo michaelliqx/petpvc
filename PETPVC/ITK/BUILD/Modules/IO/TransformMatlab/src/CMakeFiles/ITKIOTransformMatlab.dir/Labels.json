@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/TransformMatlab/src/itkMatlabTransformIO.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/TransformMatlab/src/itkMatlabTransformIOFactory.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKIOTransformMatlab"
+		],
+		"name" : "ITKIOTransformMatlab"
+	}
+}

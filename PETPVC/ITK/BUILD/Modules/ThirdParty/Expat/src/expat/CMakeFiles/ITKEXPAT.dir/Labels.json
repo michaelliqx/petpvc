@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Expat/src/expat/xmlparse.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Expat/src/expat/xmltok.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Expat/src/expat/xmlrole.c"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKExpat"
+		],
+		"name" : "ITKEXPAT"
+	}
+}

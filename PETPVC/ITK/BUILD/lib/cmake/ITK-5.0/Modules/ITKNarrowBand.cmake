@@ -1,0 +1,13 @@
+set(ITKNarrowBand_LOADED 1)
+set(ITKNarrowBand_ENABLE_SHARED "0")
+set(ITKNarrowBand_DEPENDS "ITKCurvatureFlow;ITKFiniteDifference;ITKImageIntensity")
+set(ITKNarrowBand_PUBLIC_DEPENDS "ITKCurvatureFlow;ITKFiniteDifference;ITKImageIntensity")
+set(ITKNarrowBand_TRANSITIVE_DEPENDS "ITKCurvatureFlow;ITKFiniteDifference;ITKImageIntensity")
+set(ITKNarrowBand_PRIVATE_DEPENDS "")
+set(ITKNarrowBand_LIBRARIES "ITKCommon;ITKStatistics;ITKTransform;ITKSpatialObjects;ITKPath")
+set(ITKNarrowBand_INCLUDE_DIRS "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Numerics/NarrowBand/include")
+set(ITKNarrowBand_LIBRARY_DIRS "")
+set(ITKNarrowBand_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKNarrowBand_TARGETS_FILE "")
+set(ITKNarrowBand_FACTORY_NAMES "")
+

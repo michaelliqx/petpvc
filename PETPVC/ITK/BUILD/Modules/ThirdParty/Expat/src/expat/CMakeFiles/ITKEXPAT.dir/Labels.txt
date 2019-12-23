@@ -1,0 +1,6 @@
+# Target labels
+ ITKExpat
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Expat/src/expat/xmlparse.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Expat/src/expat/xmltok.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Expat/src/expat/xmlrole.c

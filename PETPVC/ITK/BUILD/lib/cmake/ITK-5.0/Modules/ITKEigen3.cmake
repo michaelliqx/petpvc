@@ -1,0 +1,18 @@
+set(ITKEigen3_LOADED 1)
+set(ITKEigen3_ENABLE_SHARED "0")
+set(ITKEigen3_DEPENDS "")
+set(ITKEigen3_PUBLIC_DEPENDS "")
+set(ITKEigen3_TRANSITIVE_DEPENDS "")
+set(ITKEigen3_PRIVATE_DEPENDS "")
+set(ITKEigen3_LIBRARIES "ITKInternalEigen3::Eigen")
+set(ITKEigen3_INCLUDE_DIRS "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/Eigen3/src;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/Eigen3/src")
+set(ITKEigen3_LIBRARY_DIRS "")
+set(ITKEigen3_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKEigen3_TARGETS_FILE "")
+set(ITKEigen3_FACTORY_NAMES "")
+
+set(ITKInternalEigen3_DIR "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/Eigen3/src/itkeigen")
+if(NOT ITK_BINARY_DIR OR ITK_USE_SYSTEM_EIGEN)
+  find_package(ITKInternalEigen3 3.3 REQUIRED CONFIG)
+endif()
+

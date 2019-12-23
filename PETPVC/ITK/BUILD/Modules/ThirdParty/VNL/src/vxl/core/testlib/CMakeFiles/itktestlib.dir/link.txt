@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../../../../lib/libitktestlib-5.0.a  CMakeFiles/itktestlib.dir/testlib_test.cxx.o CMakeFiles/itktestlib.dir/testlib_main.cxx.o CMakeFiles/itktestlib.dir/testlib_root_dir.cxx.o
+/usr/bin/ranlib ../../../../../../../lib/libitktestlib-5.0.a

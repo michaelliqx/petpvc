@@ -1,0 +1,5 @@
+# Target labels
+ ITKIOMeshVTK
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshVTK/src/itkVTKPolyDataMeshIO.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshVTK/src/itkVTKPolyDataMeshIOFactory.cxx

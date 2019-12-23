@@ -1,0 +1,6 @@
+# Target labels
+ ITKIOGDCM
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/GDCM/src/itkGDCMImageIO.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/GDCM/src/itkGDCMImageIOFactory.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/GDCM/src/itkGDCMSeriesFileNames.cxx

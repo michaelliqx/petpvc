@@ -1,0 +1,181 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaUtils.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaArrow.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaBlob.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaCommand.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaContour.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaDTITube.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaEllipse.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaGroup.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaGaussian.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaImage.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaImageUtils.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaLandmark.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaLine.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaMesh.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaObject.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaOutput.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaScene.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaSurface.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaTube.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaVesselTube.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaTransform.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaTubeGraph.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaForm.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaArray.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaFEMObject.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/localMetaConfiguration.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaArray.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaArrow.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaBlob.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaCommand.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaContour.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaDTITube.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaEllipse.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaEvent.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaFEMObject.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaForm.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaGaussian.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaGroup.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaImage.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaImageTypes.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaImageUtils.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaITKUtils.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaLandmark.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaLine.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaMesh.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaObject.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaOutput.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaScene.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaSurface.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaTransform.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaTubeGraph.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaTube.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaTypes.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaUtils.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaVesselTube.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/MetaIO/src/MetaIO/src/metaIOConfig.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKMetaIO"
+		],
+		"name" : "ITKMetaIO"
+	}
+}

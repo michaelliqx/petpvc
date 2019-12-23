@@ -1,0 +1,25 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshFreeSurfer/src/itkFreeSurferAsciiMeshIO.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshFreeSurfer/src/itkFreeSurferAsciiMeshIOFactory.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshFreeSurfer/src/itkFreeSurferBinaryMeshIO.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshFreeSurfer/src/itkFreeSurferBinaryMeshIOFactory.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKIOMeshFreeSurfer"
+		],
+		"name" : "ITKIOMeshFreeSurfer"
+	}
+}

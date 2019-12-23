@@ -1,0 +1,7 @@
+# Target labels
+ ITKIOMeshFreeSurfer
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshFreeSurfer/src/itkFreeSurferAsciiMeshIO.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshFreeSurfer/src/itkFreeSurferAsciiMeshIOFactory.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshFreeSurfer/src/itkFreeSurferBinaryMeshIO.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshFreeSurfer/src/itkFreeSurferBinaryMeshIOFactory.cxx

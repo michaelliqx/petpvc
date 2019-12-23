@@ -1,0 +1,7 @@
+# Target labels
+ ITKIOMeshBase
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshBase/src/itkMeshFileReaderException.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshBase/src/itkMeshFileWriterException.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshBase/src/itkMeshIOBase.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshBase/src/itkMeshIOFactory.cxx

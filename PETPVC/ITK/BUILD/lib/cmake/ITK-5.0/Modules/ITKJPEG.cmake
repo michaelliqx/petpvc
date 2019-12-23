@@ -1,0 +1,13 @@
+set(ITKJPEG_LOADED 1)
+set(ITKJPEG_ENABLE_SHARED "0")
+set(ITKJPEG_DEPENDS "")
+set(ITKJPEG_PUBLIC_DEPENDS "")
+set(ITKJPEG_TRANSITIVE_DEPENDS "")
+set(ITKJPEG_PRIVATE_DEPENDS "")
+set(ITKJPEG_LIBRARIES "itkjpeg")
+set(ITKJPEG_INCLUDE_DIRS "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/JPEG/src;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/JPEG/src")
+set(ITKJPEG_LIBRARY_DIRS "")
+set(ITKJPEG_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKJPEG_TARGETS_FILE "")
+set(ITKJPEG_FACTORY_NAMES "")
+

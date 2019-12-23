@@ -1,0 +1,18 @@
+# Target labels
+ ITKZLIB
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/adler32.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/compress.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/crc32.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/deflate.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/gzclose.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/gzlib.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/gzread.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/gzwrite.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/inflate.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/infback.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/inftrees.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/inffast.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/trees.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/uncompr.c
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/ZLIB/src/itkzlib/zutil.c

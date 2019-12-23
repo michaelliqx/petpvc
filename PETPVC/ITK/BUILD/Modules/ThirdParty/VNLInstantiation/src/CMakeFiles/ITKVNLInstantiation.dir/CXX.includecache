@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/VNLInstantiation/src/libraryplaceholder.cxx
+

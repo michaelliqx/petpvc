@@ -1,0 +1,13 @@
+set(ITKIOMeshGifti_LOADED 1)
+set(ITKIOMeshGifti_ENABLE_SHARED "1")
+set(ITKIOMeshGifti_DEPENDS "ITKCommon;ITKGIFTI;ITKIOMeshBase;ITKMesh")
+set(ITKIOMeshGifti_PUBLIC_DEPENDS "ITKCommon;ITKIOMeshBase")
+set(ITKIOMeshGifti_TRANSITIVE_DEPENDS "ITKCommon;ITKIOMeshBase;ITKMesh")
+set(ITKIOMeshGifti_PRIVATE_DEPENDS "ITKGIFTI")
+set(ITKIOMeshGifti_LIBRARIES "ITKIOMeshGifti")
+set(ITKIOMeshGifti_INCLUDE_DIRS "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshGifti/include")
+set(ITKIOMeshGifti_LIBRARY_DIRS "")
+set(ITKIOMeshGifti_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKIOMeshGifti_TARGETS_FILE "")
+set(ITKIOMeshGifti_FACTORY_NAMES "MeshIO::Gifti")
+

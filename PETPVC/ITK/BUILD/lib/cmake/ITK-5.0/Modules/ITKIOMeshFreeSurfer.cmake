@@ -1,0 +1,13 @@
+set(ITKIOMeshFreeSurfer_LOADED 1)
+set(ITKIOMeshFreeSurfer_ENABLE_SHARED "1")
+set(ITKIOMeshFreeSurfer_DEPENDS "ITKCommon;ITKIOMeshBase;ITKMesh")
+set(ITKIOMeshFreeSurfer_PUBLIC_DEPENDS "ITKCommon;ITKIOMeshBase")
+set(ITKIOMeshFreeSurfer_TRANSITIVE_DEPENDS "ITKCommon;ITKIOMeshBase;ITKMesh")
+set(ITKIOMeshFreeSurfer_PRIVATE_DEPENDS "")
+set(ITKIOMeshFreeSurfer_LIBRARIES "ITKIOMeshFreeSurfer")
+set(ITKIOMeshFreeSurfer_INCLUDE_DIRS "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/MeshFreeSurfer/include")
+set(ITKIOMeshFreeSurfer_LIBRARY_DIRS "")
+set(ITKIOMeshFreeSurfer_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKIOMeshFreeSurfer_TARGETS_FILE "")
+set(ITKIOMeshFreeSurfer_FACTORY_NAMES "MeshIO::FreeSurferAscii;MeshIO::FreeSurferBinary")
+

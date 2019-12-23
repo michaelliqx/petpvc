@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libITKTransform-5.0.a  CMakeFiles/ITKTransform.dir/itkTransformBase.cxx.o
+/usr/bin/ranlib ../../../../lib/libITKTransform-5.0.a

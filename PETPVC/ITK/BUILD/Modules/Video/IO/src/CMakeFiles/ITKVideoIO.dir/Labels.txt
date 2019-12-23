@@ -1,0 +1,7 @@
+# Target labels
+ ITKVideoIO
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Video/IO/src/itkFileListVideoIO.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Video/IO/src/itkFileListVideoIOFactory.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Video/IO/src/itkVideoIOBase.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Video/IO/src/itkVideoIOFactory.cxx

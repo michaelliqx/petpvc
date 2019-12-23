@@ -1,0 +1,13 @@
+set(ITKMINC_LOADED 1)
+set(ITKMINC_ENABLE_SHARED "0")
+set(ITKMINC_DEPENDS "ITKHDF5;ITKKWSys;ITKZLIB")
+set(ITKMINC_PUBLIC_DEPENDS "ITKHDF5;ITKKWSys;ITKZLIB")
+set(ITKMINC_TRANSITIVE_DEPENDS "ITKHDF5;ITKKWSys;ITKZLIB")
+set(ITKMINC_PRIVATE_DEPENDS "")
+set(ITKMINC_LIBRARIES "itkminc2")
+set(ITKMINC_INCLUDE_DIRS "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/MINC;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/HDF5/src/itkhdf5;/public/liqingxing/PET/ITK/build/Modules/ThirdParty/HDF5/src/itkhdf5;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/HDF5/src/itkhdf5/src")
+set(ITKMINC_LIBRARY_DIRS "")
+set(ITKMINC_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKMINC_TARGETS_FILE "")
+set(ITKMINC_FACTORY_NAMES "")
+

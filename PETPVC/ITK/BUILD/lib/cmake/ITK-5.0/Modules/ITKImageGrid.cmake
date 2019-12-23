@@ -1,0 +1,13 @@
+set(ITKImageGrid_LOADED 1)
+set(ITKImageGrid_ENABLE_SHARED "0")
+set(ITKImageGrid_DEPENDS "ITKImageFunction")
+set(ITKImageGrid_PUBLIC_DEPENDS "")
+set(ITKImageGrid_TRANSITIVE_DEPENDS "ITKImageFunction")
+set(ITKImageGrid_PRIVATE_DEPENDS "")
+set(ITKImageGrid_LIBRARIES "ITKCommon;ITKStatistics;ITKTransform")
+set(ITKImageGrid_INCLUDE_DIRS "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Filtering/ImageGrid/include")
+set(ITKImageGrid_LIBRARY_DIRS "")
+set(ITKImageGrid_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKImageGrid_TARGETS_FILE "")
+set(ITKImageGrid_FACTORY_NAMES "")
+

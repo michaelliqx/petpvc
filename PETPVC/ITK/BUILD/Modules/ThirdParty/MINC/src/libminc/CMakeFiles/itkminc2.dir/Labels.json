@@ -1,0 +1,265 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/convert.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/datatype.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/dimension.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/free.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/grpattr.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/hyper.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/label.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/m2util.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/record.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/slice.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/valid.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/volprops.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/volume.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/minc2_error.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/minc_config.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/minc_error.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/ParseArgv.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/read_file_names.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/restructure.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/time_stamp.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/minc2.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/minc2_defs.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/minc2_structs.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libsrc2/minc2_api.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/minc2_error.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/minc_config.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/minc_error.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/ParseArgv.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/read_file_names.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/restructure.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/time_stamp.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/libcommon/minc_common_defs.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Geometry/colour.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Geometry/colour_def.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Geometry/gaussian.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Geometry/inverse.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Geometry/newton.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Geometry/points.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Geometry/splines.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Geometry/tensors.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Geometry/transforms.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/MNI_formats/gen_xf_io.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/MNI_formats/gen_xfs.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/MNI_formats/grid_transforms.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/MNI_formats/mni_io.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/MNI_formats/tag_points.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/MNI_formats/thin_plate_spline.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Prog_utils/alloc.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Prog_utils/alloc_check.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Prog_utils/arrays.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Prog_utils/files.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Prog_utils/print.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Prog_utils/progress.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Prog_utils/string.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Prog_utils/time.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/evaluate.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/get_hyperslab.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/input_free.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/input_mnc.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/input_volume.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/multidim_arrays.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/output_mnc.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/output_volume.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/set_hyperslab.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/volume_cache.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/volumes.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/input_mnc2.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Volumes/output_mnc2.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/alloc.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/arrays.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/basic.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/def_math.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/files.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/geom_structs.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/geometry.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/multidim.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/progress.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/string_funcs.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/system_dependent.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/transforms.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/vol_io_prototypes.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/volume.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include/volume_io/volume_cache.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKMINC"
+		],
+		"name" : "itkminc2"
+	}
+}

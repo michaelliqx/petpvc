@@ -1,0 +1,7 @@
+# Target labels
+ ITKKLMRegionGrowing
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Segmentation/KLMRegionGrowing/src/itkSegmentationRegion.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Segmentation/KLMRegionGrowing/src/itkKLMSegmentationRegion.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Segmentation/KLMRegionGrowing/src/itkSegmentationBorder.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Segmentation/KLMRegionGrowing/src/itkKLMSegmentationBorder.cxx

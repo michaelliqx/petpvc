@@ -1,0 +1,121 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/ProcessUNIX.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/Base64.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/EncodingC.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/MD5.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/System.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/Configure.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/SharedForward.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/Process.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/Base64.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/Encoding.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/MD5.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/System.h"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/Directory.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/Directory.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/DynamicLoader.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/DynamicLoader.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/EncodingCXX.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/Encoding.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/Glob.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/Glob.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/RegularExpression.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/RegularExpression.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/SystemTools.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/SystemTools.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/CommandLineArguments.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/CommandLineArguments.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/FStream.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/FStream.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWSys/src/KWSys/SystemInformation.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/SystemInformation.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/Configure.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/String.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/hashtable.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/hash_fun.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/hash_map.hxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWSys/src/itksys/hash_set.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKKWSys"
+		],
+		"name" : "itksys"
+	}
+}

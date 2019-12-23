@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libITKReview-5.0.a  CMakeFiles/ITKReview.dir/itkVoxBoCUBImageIO.cxx.o CMakeFiles/ITKReview.dir/itkVoxBoCUBImageIOFactory.cxx.o
+/usr/bin/ranlib ../../../../lib/libITKReview-5.0.a

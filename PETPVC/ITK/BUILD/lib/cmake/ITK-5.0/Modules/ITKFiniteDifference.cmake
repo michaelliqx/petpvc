@@ -1,0 +1,13 @@
+set(ITKFiniteDifference_LOADED 1)
+set(ITKFiniteDifference_ENABLE_SHARED "0")
+set(ITKFiniteDifference_DEPENDS "ITKCommon")
+set(ITKFiniteDifference_PUBLIC_DEPENDS "")
+set(ITKFiniteDifference_TRANSITIVE_DEPENDS "ITKCommon")
+set(ITKFiniteDifference_PRIVATE_DEPENDS "")
+set(ITKFiniteDifference_LIBRARIES "ITKCommon")
+set(ITKFiniteDifference_INCLUDE_DIRS "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Core/FiniteDifference/include")
+set(ITKFiniteDifference_LIBRARY_DIRS "")
+set(ITKFiniteDifference_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKFiniteDifference_TARGETS_FILE "")
+set(ITKFiniteDifference_FACTORY_NAMES "")
+

@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GIFTI/src/gifticlib/gifti_io.c"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/GIFTI/src/gifticlib/gifti_xml.c"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKGIFTI"
+		],
+		"name" : "ITKgiftiio"
+	}
+}

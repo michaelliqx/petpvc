@@ -1,0 +1,5 @@
+# Target labels
+ ITKIOIPL
+# Source files and their labels
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/IPL/src/itkIPLCommonImageIO.cxx
+/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/IPL/src/itkIPLFileNameList.cxx

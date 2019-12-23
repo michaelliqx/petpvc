@@ -1,0 +1,13 @@
+set(ITKKWIML_LOADED 1)
+set(ITKKWIML_ENABLE_SHARED "0")
+set(ITKKWIML_DEPENDS "")
+set(ITKKWIML_PUBLIC_DEPENDS "")
+set(ITKKWIML_TRANSITIVE_DEPENDS "")
+set(ITKKWIML_PRIVATE_DEPENDS "")
+set(ITKKWIML_LIBRARIES "")
+set(ITKKWIML_INCLUDE_DIRS "/public/liqingxing/PET/ITK/build/Modules/ThirdParty/KWIML/src;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/ThirdParty/KWIML/src")
+set(ITKKWIML_LIBRARY_DIRS "")
+set(ITKKWIML_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKKWIML_TARGETS_FILE "")
+set(ITKKWIML_FACTORY_NAMES "")
+

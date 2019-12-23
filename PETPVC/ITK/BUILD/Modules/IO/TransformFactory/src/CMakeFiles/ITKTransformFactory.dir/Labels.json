@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/TransformFactory/src/itkTransformFactoryBase.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/TransformFactory/src/itkTransformFactoryBaseRegisterFloatParameters.cxx"
+		},
+		{
+			"file" : "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/IO/TransformFactory/src/itkTransformFactoryBaseRegisterDoubleParameters.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITKTransformFactory"
+		],
+		"name" : "ITKTransformFactory"
+	}
+}

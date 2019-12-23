@@ -1,0 +1,13 @@
+set(ITKVideoIO_LOADED 1)
+set(ITKVideoIO_ENABLE_SHARED "1")
+set(ITKVideoIO_DEPENDS "ITKIOImageBase;ITKVideoCore")
+set(ITKVideoIO_PUBLIC_DEPENDS "ITKIOImageBase;ITKVideoCore")
+set(ITKVideoIO_TRANSITIVE_DEPENDS "ITKIOImageBase;ITKVideoCore")
+set(ITKVideoIO_PRIVATE_DEPENDS "")
+set(ITKVideoIO_LIBRARIES "ITKVideoIO")
+set(ITKVideoIO_INCLUDE_DIRS "/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Video/IO/include")
+set(ITKVideoIO_LIBRARY_DIRS "")
+set(ITKVideoIO_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKVideoIO_TARGETS_FILE "")
+set(ITKVideoIO_FACTORY_NAMES "")
+

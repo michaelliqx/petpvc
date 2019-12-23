@@ -1,0 +1,13 @@
+set(ITKCommon_LOADED 1)
+set(ITKCommon_ENABLE_SHARED "1")
+set(ITKCommon_DEPENDS "ITKDoubleConversion;ITKEigen3;ITKKWIML;ITKKWSys;ITKVNLInstantiation")
+set(ITKCommon_PUBLIC_DEPENDS "ITKEigen3;ITKKWIML")
+set(ITKCommon_TRANSITIVE_DEPENDS "ITKEigen3;ITKKWIML;ITKKWSys;ITKVNLInstantiation")
+set(ITKCommon_PRIVATE_DEPENDS "ITKDoubleConversion")
+set(ITKCommon_LIBRARIES "ITKCommon")
+set(ITKCommon_INCLUDE_DIRS "/public/liqingxing/PET/ITK/build/Modules/Core/Common;/public/liqingxing/PET/ITK/InsightToolkit-5.0.1/Modules/Core/Common/include")
+set(ITKCommon_LIBRARY_DIRS "")
+set(ITKCommon_RUNTIME_LIBRARY_DIRS "/public/liqingxing/PET/ITK/build/lib")
+set(ITKCommon_TARGETS_FILE "")
+set(ITKCommon_FACTORY_NAMES "")
+
